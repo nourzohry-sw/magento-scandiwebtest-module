@@ -103,7 +103,7 @@ class CreateProduct implements DataPatchInterface
 
     /**
      * @return void
-     * @throws \Exception
+     * @throws Exception
      */
     public function apply(): void
     {
